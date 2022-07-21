@@ -1,4 +1,8 @@
-## Olá, sou o Vinicius, um desenvolvedor front-end 👋
+<div align="center">
+  <a href="https://github.com/Vini-pires">
+  <img src="./github-header-image.png" />
+</div>
+
 <div align="center">
   <a href="https://github.com/Vini-pires">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vini-pires&show_icons=true&theme=ayu-mirage&include_all_commits=true&count_private=true"/>
