@@ -2,7 +2,7 @@
 <div align="center">
   <a href="https://github.com/Vini-pires">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vini-pires&show_icons=true&theme=ayu-mirage&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vini-pires&layout=compact&langs_count=7&theme=ayu-mirage"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vini-pires&layout=compact&langs_count=7&theme=ayu-mirage&exclude-repo=Vini-Pires/Formacao-Data-Science"/>
 </div>
   
 <div style="display: inline_block"><br>
