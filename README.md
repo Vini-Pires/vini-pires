@@ -1,7 +1,11 @@
 <div align="center">
   <a href="https://github.com/Vini-pires">
-  <img src="./github-header-image.png" />
+    <img src="./github-header-image.png" />
+  </a>
 </div>
+
+
+---
 
 <div align="center">
   <a href="https://github.com/Vini-pires">
