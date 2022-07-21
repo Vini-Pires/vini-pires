@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 ##
 
 <div>
-  <a href="https://instagram.com/rafaballerini" target="_blank">
+  <a href="https://www.instagram.com/vinicius.abp/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
   <a href = "mailto:vini.abpires44@gmail.com">
