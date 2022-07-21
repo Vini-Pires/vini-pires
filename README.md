@@ -1,8 +1,8 @@
 ## Olá, sou o Vinicius, um desenvolvedor front-end 👋
 <div align="center">
-  <a href="https://github.com/vini-pires">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vini-pires&show_icons=true&theme=ayu-mirage&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vini-pires&layout=compact&langs_count=7&theme=ayu-mirage"/>
+  <a href="https://github.com/Vini-pires">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vini-pires&show_icons=true&theme=ayu-mirage&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vini-pires&layout=compact&langs_count=7&theme=ayu-mirage"/>
 </div>
   
 <div style="display: inline_block"><br>
