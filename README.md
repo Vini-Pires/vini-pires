@@ -1,7 +1,5 @@
 <div align="center">
-  <a href="https://github.com/Vini-pires">
     <img src="./github-header-image.png" />
-  </a>
 </div>
 
 ##
@@ -30,6 +28,6 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
   <a href = "mailto:vini.abpires44@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&color=red" target="_blank">
   </a>
 </div>
