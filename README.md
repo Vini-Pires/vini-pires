@@ -9,7 +9,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 React.js Web Developer
 ----------------------
 
-I've been learning JavaScript for about 1 year, and now I'm studying react.js to improve my abilitys on JavaScript at web. For sure I can assume that I have the capability to write a good and clean code, but if you not belive on me, you sure can see my profile.
+Hello, I'm a Front-end developer and I've been studying javascript for about a year now. I'm currently focusing on my studies on React.js to improve my portfolio. As a developer and active in the GitHub community, I can show that I know how to create good code using the clean code methodology. However, I know how hard it is to believe me with words alone, so please take a look at my repositories on GitHub. In addition to React.js I have been interested in advancing as a fullstack developer on node.js technology for the backend. However, I still need to complete the projects I have with React.js, as I see their completion necessary to continue my studies in the area
 
 * 🌍  I'm based in São Paulo, Brazil
 * 🖥️  See my portfolio at [github pages](http://vini-pires.github.io/portifolio/)
