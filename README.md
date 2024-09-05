@@ -1,3 +1,4 @@
+<!--
 <div align='center'>
   <img src='./github-header-image.png' />
 </div>
@@ -44,15 +45,15 @@ Hello, I'm a Front-end developer and I've been studying javascript for about a y
   </a>
   <a>
     <img alt="Git" height="36" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-    <!-- Icon Git -->
+    <!-- Icon Git --
   </a>
   <a>
     <img alt="Github" height="36" width="36" src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/socials/github-dark.svg" />
-    <!-- Icon Github -->
+    <!-- Icon Github --
   </a>
   <a>
     <img alt="Visual Studio Code" height="36" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-    <!-- Icon Visual Studio Code -->
+    <!-- Icon Visual Studio Code --
   </a>
 </p>
 
